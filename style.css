@@ -1,0 +1,9 @@
+.hidden {
+  display: none;
+}
+
+.message {
+  font-size: 5rem;
+  color: pink;
+  margin-top: 10rem;
+}
